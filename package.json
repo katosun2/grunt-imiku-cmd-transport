@@ -1,0 +1,49 @@
+{
+  "name": "grunt-imiku-cmd-transport",
+  "description": "Transport javascript into cmd, compatible seajs.",
+  "version": "0.1.6",
+  "homepage": "http://www.imiku.com/",
+  "author": {
+    "name": "katosun2",
+    "email": "neko@imiku.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/katosun2/grunt-imiku-cmd-transport.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katosun2/grunt-imiku-cmd-transport/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/spmjs/grunt-cmd-transport/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "cmd-util": "^0.3.13",
+    "clean-css": "^1.0.12",
+    "css": "^1.4.4",
+    "uglify-js": "^2.2.5",
+    "handlebars": "^1.0.11"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-mocha-test": "~0.4.0",
+    "should": "~1.2.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "readmeFilename": "README.md",
+  "_id": "grunt-imiku-cmd-transport@0.1.6",
+  "_from": "grunt-imiku-cmd-transport@^0.1.6"
+}
