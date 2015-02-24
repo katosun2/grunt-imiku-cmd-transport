@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "cmd-util": "^0.3.13",
     "clean-css": "^1.0.12",
     "css": "^1.4.4",
